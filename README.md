@@ -1,19 +1,17 @@
 # NovelFOA
+Compare the performance of GA, DE, FOA, and our proposed FOA (Using the joint replenishment problem (JRP))
 
-
-1. Compare the performance of GA, DE, FOA, and our proposed FOA (Using the joint replenishment problem (JRP)) \\
-
+# Main function
 Main Function.m: The main function of this comparison.
 Input.m and input_scale.m: Guide parameter input.
 Several_Alg.m: Compare several algorithms.
 
-2. The proposed FOA \\
+# The proposed FOA 
 novel_FOA.m: The proposed FOA to solve the JRPs.
 calculate_A_B.m and bound_K.m: Calculate the bound of k.
 X_Y_generate.m: Generate new individul.
 
-
-3. Other contrast algorithms: Genetic algorithm (GA), Differential evolution algorithm (DE), and FOA  \\
+# Other contrast algorithms: Genetic algorithm (GA), Differential evolution algorithm (DE), and FOA 
 GA_SHIYL.m: The GA in [1] to solve the JRPs.
 DE_SHIYL.m: The DE in [1] to solve the JRPs.
 NFOA_SHIYL.m: The DE in [1] to solve the JRPs.
