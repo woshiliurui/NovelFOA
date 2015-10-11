@@ -2,7 +2,7 @@
 Compare the performance of GA, DE, FOA, and our proposed FOA (Using the joint replenishment problem (JRP))
 
 # Main function
-Main Function.m: The main function of this comparison.
+Maincode.m: The main function of this comparison.
 Input.m and input_scale.m: Guide parameter input.
 Several_Alg.m: Compare several algorithms.
 
